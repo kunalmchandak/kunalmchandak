@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there! 👋 I'm Kunal Chandak 
 
-<!--
-**kunalmchandak/kunalmchandak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Flutter, React Native, Machine Learning, and AR Development**  
+🔬 Exploring **OCR-based models, Cloud Computing, and Cybersecurity**  
+📊 Experienced with **C, Java, Python, Node.js, and MySQL**  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- **Languages**: C, Java, Python, JavaScript  
+- **Frameworks**: Flutter, React Native, Node.js  
+- **Databases**: MySQL, Firebase  
+- **Tools**: AWS, Google Colab, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projects  
+- ♟️ **Chess** – A strategic chess game implementation  
+- 🎮 **GAME ZONE** – Java Swing & AWT-based gaming app  
+- 🛡️ **Android Malware Detector** – A security tool for detecting malicious Android apps  
+
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?kunalmchandak=kunalmchandak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?kunalmchandak=kunalmchandak&layout=compact&theme=radical)  
+
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/kunal-chandak-2a532a26b/) | [Email](kmcwankhed2021@gmail.com)  
