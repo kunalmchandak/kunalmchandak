@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Kunal Chandak 
+# Hi there! 👋 I'm Kunal Chandak 
 
 🚀 Passionate about **Flutter, React Native, Machine Learning, and AR Development**  
 🔬 Exploring **OCR-based models, Cloud Computing, and Cybersecurity**  
@@ -18,7 +18,7 @@
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kunalmchandak&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=kunalmchandak&theme=radical)  
 
 
 ### 📫 Connect with me  
