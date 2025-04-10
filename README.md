@@ -6,9 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-## 🚀 Languages and Tools  
+## 🚀 Tech Stack
 
 ### Programming Languages  
 <p align="center">
@@ -56,7 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -68,7 +65,7 @@
   <a href="https://www.linkedin.com/in/kunal-chandak-2a532a26b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kunalmchandak/">
+  <a href="https://www.instagram.com/kunal.11010/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
