@@ -16,9 +16,10 @@
 - 🛡️ **Android Malware Detector** – A security tool for detecting malicious Android apps  
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=kunalmchandak&theme=radical) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=kunalmchandak&theme=radical)  
+
 
 ### 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/kunal-chandak-2a532a26b/) 
