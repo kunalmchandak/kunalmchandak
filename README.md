@@ -10,18 +10,8 @@
 
 ### Programming Languages  
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/c_icon.png" width="50" height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/cpp_icon.png" width="50" height="50" />
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -65,10 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
