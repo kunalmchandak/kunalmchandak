@@ -52,13 +52,13 @@
 ## ⚡ My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight&cache_bust=1" alt="GitHub Stats" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 ---
