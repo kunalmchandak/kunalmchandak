@@ -1,6 +1,10 @@
+Here's your updated profile with Arduino added to the tech stack and the Smart Indicator System added as the first project:
+
+---
+
 # 🌟 Hi there! 👋 I'm Kunal Chandak  
 
-🚀 Passionate about **Flutter, React Native, Machine Learning, and AR Development**  
+🚀 Passionate about **Flutter, React Native, Arduino Microcontroller, Machine Learning, and AR Development**  
 🔬 Exploring **OCR-based models, Cloud Computing, and Cybersecurity**  
 📊 Experienced with **C, Java, Python, Node.js, and MySQL**  
 
@@ -26,6 +30,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### Databases  
@@ -43,8 +48,8 @@
 ---
 
 ## 🔥 Projects  
+- 🚦 **Smart Indicator System** – A system for controlling traffic lights with real-time updates  
 - ♟️ **Chess** – A strategic chess game implementation  
-- 🎮 **GAME ZONE** – Java Swing & AWT-based gaming app  
 - 🛡️ **Android Malware Detector** – A security tool for detecting malicious Android apps  
 
 ---
@@ -72,3 +77,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
