@@ -1,7 +1,3 @@
-Here's your updated profile with Arduino added to the tech stack and the Smart Indicator System added as the first project:
-
----
-
 # 🌟 Hi there! 👋 I'm Kunal Chandak  
 
 🚀 Passionate about **Flutter, React Native, Arduino Microcontroller, Machine Learning, and AR Development**  
