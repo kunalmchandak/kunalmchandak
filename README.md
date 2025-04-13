@@ -8,7 +8,8 @@
 
 ## 🚀 Tech Stack
 
-### Programming Languages  
+### Programming Languages 
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
@@ -19,6 +20,7 @@
 </p>
 
 ### Frameworks & Libraries  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -30,12 +32,14 @@
 </p>
 
 ### Databases  
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Cloud Services  
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -44,6 +48,7 @@
 ---
 
 ## 🔥 Projects  
+
 - 🚦 **Smart Indicator System** – A system for controlling traffic lights with real-time updates  
 - ♟️ **Chess** – A strategic chess game implementation  
 - 🛡️ **Android Malware Detector** – A security tool for detecting malicious Android apps  
@@ -53,18 +58,19 @@
 ## ⚡ My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalmchandak&layout=compact&theme=tokyonight&cache_bust=<timestamp>" alt="Top Languages" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight&cache_bust=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalmchandak&show_icons=true&theme=tokyonight&cache_bust=<timestamp>" alt="GitHub Stats" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalmchandak&theme=tokyonight&cache_bust=<timestamp>" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-chandak-2a532a26b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
