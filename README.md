@@ -49,9 +49,9 @@
 
 ## 🔥 Projects  
 
+- 💬 **CHAT HUB** – A real-time Flutter chat app with Firebase integration  
 - 🚦 **Smart Indicator System** – A system for controlling traffic lights with real-time updates  
 - ♟️ **Chess** – A strategic chess game implementation  
-- 🛡️ **Android Malware Detector** – A security tool for detecting malicious Android apps  
 
 ---
 
